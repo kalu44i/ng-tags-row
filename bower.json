@@ -1,0 +1,24 @@
+{
+  "name": "ng-tags-row",
+	"version": "0.0.0",
+  "authors": [
+    "nick.veremeichyk"
+  ],
+  "description": "Renders a list of tags and shows them in one row.",
+  "main": [
+	"ng-tags-row.js",
+	"ng-tags-row.css",
+	"ng-tags-row.html"
+	],
+  "keywords": [
+    "tags",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "",
+	"dependencies": {
+		"angular": "~1.6.7",
+		"bootstap": "3.0.2",
+						
+  }
+}
