@@ -7,8 +7,7 @@
   "description": "Renders a list of tags and shows them in one row.",
   "main": [
 	"ng-tags-row.js",
-	"ng-tags-row.css",
-	"ng-tags-row.html"
+	"ng-tags-row.css"
 	],
   "keywords": [
     "tags",
@@ -17,8 +16,9 @@
   "license": "MIT",
   "homepage": "",
 	"dependencies": {
-		"angular": "~1.6.7",
-		"bootstap": "3.0.2",
+		"angular": "1.6.7",
+		"bootstrap": "3.0.2",
+		"angular-bootstrap": "0.13.0"
 						
   }
 }
